@@ -4,7 +4,7 @@
 #define MAX 50  //max number of characters in path
 
 //DataStructures and Global Variables
-
+// test
 char assets[MAX];  //String that holds path of directory which contains images of pieces
 GtkWidget *window;  //gtkWindow
 GtkWidget *grid;    //Grid to hold pieces
